@@ -26,12 +26,12 @@
 
 
 # Github repository
- https://github.com/vsatyakavya/WorkoutTracker      
+ https://github.com/vsatyakavya/BudgetTracker    
 
  
  
 # heroku link
-https://boiling-stream-90218.herokuapp.com/
+https://whispering-mesa-23895.herokuapp.com/
 
 # contact Information
 satyakavya24@gmail.com

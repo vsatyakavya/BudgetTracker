@@ -21,7 +21,7 @@
 
 
 
-# Sample web pages
+# Sample web page
 ![picture](Assets/graph.png)
 
 
